@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "70ia//Vhu7eyshSzUNj4S3/kuQImE8TtYnhw1TRFR6604UIcAbtwUpEm9VKhw/0T21+Xlhui4H3jWNUDdUF1eA==",
+  "success": true,
+  "projectFilePath": "C:\\Bhadresh's OneDrive Digz 1 TB\\OneDrive - Digz Placements LLP\\study\\github\\newproject_test\\Practical 1\\Practical 1\\Practical 1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhadr\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.3\\microsoft.aspnetcore.mvc.razor.extensions.6.0.3.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.3\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.3.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.3\\microsoft.aspnetcore.razor.language.6.0.3.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0\\microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0\\microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.3\\microsoft.codeanalysis.razor.6.0.3.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\bhadr\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
